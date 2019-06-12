@@ -1,0 +1,1054 @@
+Dependencies for Project 'Project', Target 'GD32F350': (DO NOT MODIFY !)
+F (..\gd32f3x0_it.c)(0x5CFF4D27)(-c --cpu Cortex-M4 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I..\..\Firmware\CMSIS\GD\GD32F3x0\Include -I..\..\Utilities -I..\..\Firmware\CMSIS -I..\..\Template -I..\..\Firmware\CMSIS\GD\GD32F3x0\Source\ARM -I..\..\Firmware\GD32F3x0_standard_peripheral\Include -I..\FATFS_Source -I..\Keil_project-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\GD\GD32F3x0-DUSE_STDPERIPH_DRIVER -DGD32F3X0 -DGD32F350 -o .\output\gd32f3x0_it.o --omf_browse .\output\gd32f3x0_it.crf --depend .\output\gd32f3x0_it.d)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Template_Bootloader\gd32f3x0_it.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\GD\GD32F3x0\Include\gd32f3x0.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\core_cm4.h)(0x59552400)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7B744)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\core_cmInstr.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\core_cmFunc.h)(0x5CE757CD)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\core_cm4_simd.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\GD\GD32F3x0\Include\system_gd32f3x0.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Template\gd32f3x0_libopt.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_adc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_crc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_ctc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_dbg.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_dma.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_exti.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_fmc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_gpio.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_syscfg.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_i2c.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_fwdgt.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_pmu.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_rcu.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_rtc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_spi.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_timer.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_usart.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_wwdgt.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_misc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_tsi.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_cec.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_cmp.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_dac.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Template_Bootloader\main.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Template_Bootloader\systick.h)(0x59552400)
+F (..\main.c)(0x5CFF5EB0)(-c --cpu Cortex-M4 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I..\..\Firmware\CMSIS\GD\GD32F3x0\Include -I..\..\Utilities -I..\..\Firmware\CMSIS -I..\..\Template -I..\..\Firmware\CMSIS\GD\GD32F3x0\Source\ARM -I..\..\Firmware\GD32F3x0_standard_peripheral\Include -I..\FATFS_Source -I..\Keil_project-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\GD\GD32F3x0-DUSE_STDPERIPH_DRIVER -DGD32F3X0 -DGD32F350 -o .\output\main.o --omf_browse .\output\main.crf --depend .\output\main.d)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\GD\GD32F3x0\Include\gd32f3x0.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\core_cm4.h)(0x59552400)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7B744)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\core_cmInstr.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\core_cmFunc.h)(0x5CE757CD)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\core_cm4_simd.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\GD\GD32F3x0\Include\system_gd32f3x0.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Template\gd32f3x0_libopt.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_adc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_crc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_ctc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_dbg.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_dma.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_exti.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_fmc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_gpio.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_syscfg.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_i2c.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_fwdgt.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_pmu.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_rcu.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_rtc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_spi.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_timer.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_usart.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_wwdgt.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_misc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_tsi.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_cec.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_cmp.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_dac.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Template_Bootloader\systick.h)(0x59552400)
+I (C:\Keil\ARM\ARMCC\include\stdio.h)(0x51C7B744)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Template_Bootloader\main.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Utilities\gd32f3x0_eval.h)(0x5CE75B93)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Template_Bootloader\JumpToCode.h)(0x5CE75910)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Template_Bootloader\ff.h)(0x5BC350C8)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Template_Bootloader\ffconf.h)(0x5CFE3431)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Template_Bootloader\diskio.h)(0x5CFF5DDD)
+F (..\systick.c)(0x5CFF52AE)(-c --cpu Cortex-M4 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I..\..\Firmware\CMSIS\GD\GD32F3x0\Include -I..\..\Utilities -I..\..\Firmware\CMSIS -I..\..\Template -I..\..\Firmware\CMSIS\GD\GD32F3x0\Source\ARM -I..\..\Firmware\GD32F3x0_standard_peripheral\Include -I..\FATFS_Source -I..\Keil_project-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\GD\GD32F3x0-DUSE_STDPERIPH_DRIVER -DGD32F3X0 -DGD32F350 -o .\output\systick.o --omf_browse .\output\systick.crf --depend .\output\systick.d)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\GD\GD32F3x0\Include\gd32f3x0.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\core_cm4.h)(0x59552400)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7B744)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\core_cmInstr.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\core_cmFunc.h)(0x5CE757CD)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\core_cm4_simd.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\GD\GD32F3x0\Include\system_gd32f3x0.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Template\gd32f3x0_libopt.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_adc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_crc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_ctc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_dbg.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_dma.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_exti.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_fmc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_gpio.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_syscfg.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_i2c.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_fwdgt.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_pmu.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_rcu.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_rtc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_spi.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_timer.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_usart.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_wwdgt.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_misc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_tsi.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_cec.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_cmp.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_dac.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Template_Bootloader\systick.h)(0x59552400)
+F (..\JumpToCode.c)(0x5CE75ACD)(-c --cpu Cortex-M4 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I..\..\Firmware\CMSIS\GD\GD32F3x0\Include -I..\..\Utilities -I..\..\Firmware\CMSIS -I..\..\Template -I..\..\Firmware\CMSIS\GD\GD32F3x0\Source\ARM -I..\..\Firmware\GD32F3x0_standard_peripheral\Include -I..\FATFS_Source -I..\Keil_project-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\GD\GD32F3x0-DUSE_STDPERIPH_DRIVER -DGD32F3X0 -DGD32F350 -o .\output\jumptocode.o --omf_browse .\output\jumptocode.crf --depend .\output\jumptocode.d)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\GD\GD32F3x0\Include\gd32f3x0.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\core_cm4.h)(0x59552400)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7B744)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\core_cmInstr.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\core_cmFunc.h)(0x5CE757CD)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\core_cm4_simd.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\GD\GD32F3x0\Include\system_gd32f3x0.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Template\gd32f3x0_libopt.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_adc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_crc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_ctc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_dbg.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_dma.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_exti.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_fmc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_gpio.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_syscfg.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_i2c.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_fwdgt.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_pmu.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_rcu.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_rtc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_spi.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_timer.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_usart.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_wwdgt.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_misc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_tsi.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_cec.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_cmp.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_dac.h)(0x59552400)
+F (..\spi_sd.c)(0x5CFF58A0)(-c --cpu Cortex-M4 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I..\..\Firmware\CMSIS\GD\GD32F3x0\Include -I..\..\Utilities -I..\..\Firmware\CMSIS -I..\..\Template -I..\..\Firmware\CMSIS\GD\GD32F3x0\Source\ARM -I..\..\Firmware\GD32F3x0_standard_peripheral\Include -I..\FATFS_Source -I..\Keil_project-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\GD\GD32F3x0-DUSE_STDPERIPH_DRIVER -DGD32F3X0 -DGD32F350 -o .\output\spi_sd.o --omf_browse .\output\spi_sd.crf --depend .\output\spi_sd.d)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\GD\GD32F3x0\Include\gd32f3x0.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\core_cm4.h)(0x59552400)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7B744)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\core_cmInstr.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\core_cmFunc.h)(0x5CE757CD)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\core_cm4_simd.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\GD\GD32F3x0\Include\system_gd32f3x0.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Template\gd32f3x0_libopt.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_adc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_crc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_ctc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_dbg.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_dma.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_exti.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_fmc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_gpio.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_syscfg.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_i2c.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_fwdgt.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_pmu.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_rcu.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_rtc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_spi.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_timer.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_usart.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_wwdgt.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_misc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_tsi.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_cec.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_cmp.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_dac.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Template_Bootloader\spi_sd.h)(0x5CFF5C4F)
+I (C:\Keil\ARM\ARMCC\include\stdio.h)(0x51C7B744)
+F (..\..\Firmware\CMSIS\GD\GD32F3x0\Source\system_gd32f3x0.c)(0x59552400)(-c --cpu Cortex-M4 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I..\..\Firmware\CMSIS\GD\GD32F3x0\Include -I..\..\Utilities -I..\..\Firmware\CMSIS -I..\..\Template -I..\..\Firmware\CMSIS\GD\GD32F3x0\Source\ARM -I..\..\Firmware\GD32F3x0_standard_peripheral\Include -I..\FATFS_Source -I..\Keil_project-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\GD\GD32F3x0-DUSE_STDPERIPH_DRIVER -DGD32F3X0 -DGD32F350 -o .\output\system_gd32f3x0.o --omf_browse .\output\system_gd32f3x0.crf --depend .\output\system_gd32f3x0.d)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\GD\GD32F3x0\Include\gd32f3x0.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\core_cm4.h)(0x59552400)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7B744)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\core_cmInstr.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\core_cmFunc.h)(0x5CE757CD)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\core_cm4_simd.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\GD\GD32F3x0\Include\system_gd32f3x0.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Template\gd32f3x0_libopt.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_adc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_crc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_ctc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_dbg.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_dma.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_exti.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_fmc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_gpio.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_syscfg.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_i2c.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_fwdgt.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_pmu.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_rcu.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_rtc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_spi.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_timer.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_usart.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_wwdgt.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_misc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_tsi.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_cec.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_cmp.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_dac.h)(0x59552400)
+F (..\..\Firmware\GD32F3x0_standard_peripheral\Source\gd32f3x0_adc.c)(0x59552400)(-c --cpu Cortex-M4 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I..\..\Firmware\CMSIS\GD\GD32F3x0\Include -I..\..\Utilities -I..\..\Firmware\CMSIS -I..\..\Template -I..\..\Firmware\CMSIS\GD\GD32F3x0\Source\ARM -I..\..\Firmware\GD32F3x0_standard_peripheral\Include -I..\FATFS_Source -I..\Keil_project-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\GD\GD32F3x0-DUSE_STDPERIPH_DRIVER -DGD32F3X0 -DGD32F350 -o .\output\gd32f3x0_adc.o --omf_browse .\output\gd32f3x0_adc.crf --depend .\output\gd32f3x0_adc.d)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_adc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\GD\GD32F3x0\Include\gd32f3x0.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\core_cm4.h)(0x59552400)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7B744)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\core_cmInstr.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\core_cmFunc.h)(0x5CE757CD)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\core_cm4_simd.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\GD\GD32F3x0\Include\system_gd32f3x0.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Template\gd32f3x0_libopt.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_crc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_ctc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_dbg.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_dma.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_exti.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_fmc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_gpio.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_syscfg.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_i2c.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_fwdgt.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_pmu.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_rcu.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_rtc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_spi.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_timer.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_usart.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_wwdgt.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_misc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_tsi.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_cec.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_cmp.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_dac.h)(0x59552400)
+F (..\..\Firmware\GD32F3x0_standard_peripheral\Source\gd32f3x0_cec.c)(0x59552400)(-c --cpu Cortex-M4 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I..\..\Firmware\CMSIS\GD\GD32F3x0\Include -I..\..\Utilities -I..\..\Firmware\CMSIS -I..\..\Template -I..\..\Firmware\CMSIS\GD\GD32F3x0\Source\ARM -I..\..\Firmware\GD32F3x0_standard_peripheral\Include -I..\FATFS_Source -I..\Keil_project-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\GD\GD32F3x0-DUSE_STDPERIPH_DRIVER -DGD32F3X0 -DGD32F350 -o .\output\gd32f3x0_cec.o --omf_browse .\output\gd32f3x0_cec.crf --depend .\output\gd32f3x0_cec.d)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_cec.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\GD\GD32F3x0\Include\gd32f3x0.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\core_cm4.h)(0x59552400)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7B744)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\core_cmInstr.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\core_cmFunc.h)(0x5CE757CD)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\core_cm4_simd.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\GD\GD32F3x0\Include\system_gd32f3x0.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Template\gd32f3x0_libopt.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_adc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_crc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_ctc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_dbg.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_dma.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_exti.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_fmc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_gpio.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_syscfg.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_i2c.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_fwdgt.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_pmu.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_rcu.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_rtc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_spi.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_timer.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_usart.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_wwdgt.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_misc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_tsi.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_cmp.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_dac.h)(0x59552400)
+F (..\..\Firmware\GD32F3x0_standard_peripheral\Source\gd32f3x0_cmp.c)(0x59552400)(-c --cpu Cortex-M4 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I..\..\Firmware\CMSIS\GD\GD32F3x0\Include -I..\..\Utilities -I..\..\Firmware\CMSIS -I..\..\Template -I..\..\Firmware\CMSIS\GD\GD32F3x0\Source\ARM -I..\..\Firmware\GD32F3x0_standard_peripheral\Include -I..\FATFS_Source -I..\Keil_project-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\GD\GD32F3x0-DUSE_STDPERIPH_DRIVER -DGD32F3X0 -DGD32F350 -o .\output\gd32f3x0_cmp.o --omf_browse .\output\gd32f3x0_cmp.crf --depend .\output\gd32f3x0_cmp.d)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_cmp.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\GD\GD32F3x0\Include\gd32f3x0.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\core_cm4.h)(0x59552400)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7B744)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\core_cmInstr.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\core_cmFunc.h)(0x5CE757CD)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\core_cm4_simd.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\GD\GD32F3x0\Include\system_gd32f3x0.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Template\gd32f3x0_libopt.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_adc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_crc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_ctc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_dbg.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_dma.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_exti.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_fmc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_gpio.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_syscfg.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_i2c.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_fwdgt.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_pmu.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_rcu.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_rtc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_spi.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_timer.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_usart.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_wwdgt.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_misc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_tsi.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_cec.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_dac.h)(0x59552400)
+F (..\..\Firmware\GD32F3x0_standard_peripheral\Source\gd32f3x0_crc.c)(0x59552400)(-c --cpu Cortex-M4 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I..\..\Firmware\CMSIS\GD\GD32F3x0\Include -I..\..\Utilities -I..\..\Firmware\CMSIS -I..\..\Template -I..\..\Firmware\CMSIS\GD\GD32F3x0\Source\ARM -I..\..\Firmware\GD32F3x0_standard_peripheral\Include -I..\FATFS_Source -I..\Keil_project-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\GD\GD32F3x0-DUSE_STDPERIPH_DRIVER -DGD32F3X0 -DGD32F350 -o .\output\gd32f3x0_crc.o --omf_browse .\output\gd32f3x0_crc.crf --depend .\output\gd32f3x0_crc.d)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_crc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\GD\GD32F3x0\Include\gd32f3x0.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\core_cm4.h)(0x59552400)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7B744)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\core_cmInstr.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\core_cmFunc.h)(0x5CE757CD)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\core_cm4_simd.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\GD\GD32F3x0\Include\system_gd32f3x0.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Template\gd32f3x0_libopt.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_adc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_ctc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_dbg.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_dma.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_exti.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_fmc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_gpio.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_syscfg.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_i2c.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_fwdgt.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_pmu.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_rcu.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_rtc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_spi.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_timer.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_usart.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_wwdgt.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_misc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_tsi.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_cec.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_cmp.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_dac.h)(0x59552400)
+F (..\..\Firmware\GD32F3x0_standard_peripheral\Source\gd32f3x0_ctc.c)(0x59552400)(-c --cpu Cortex-M4 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I..\..\Firmware\CMSIS\GD\GD32F3x0\Include -I..\..\Utilities -I..\..\Firmware\CMSIS -I..\..\Template -I..\..\Firmware\CMSIS\GD\GD32F3x0\Source\ARM -I..\..\Firmware\GD32F3x0_standard_peripheral\Include -I..\FATFS_Source -I..\Keil_project-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\GD\GD32F3x0-DUSE_STDPERIPH_DRIVER -DGD32F3X0 -DGD32F350 -o .\output\gd32f3x0_ctc.o --omf_browse .\output\gd32f3x0_ctc.crf --depend .\output\gd32f3x0_ctc.d)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_ctc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\GD\GD32F3x0\Include\gd32f3x0.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\core_cm4.h)(0x59552400)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7B744)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\core_cmInstr.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\core_cmFunc.h)(0x5CE757CD)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\core_cm4_simd.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\GD\GD32F3x0\Include\system_gd32f3x0.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Template\gd32f3x0_libopt.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_adc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_crc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_dbg.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_dma.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_exti.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_fmc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_gpio.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_syscfg.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_i2c.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_fwdgt.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_pmu.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_rcu.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_rtc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_spi.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_timer.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_usart.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_wwdgt.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_misc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_tsi.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_cec.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_cmp.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_dac.h)(0x59552400)
+F (..\..\Firmware\GD32F3x0_standard_peripheral\Source\gd32f3x0_dac.c)(0x59552400)(-c --cpu Cortex-M4 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I..\..\Firmware\CMSIS\GD\GD32F3x0\Include -I..\..\Utilities -I..\..\Firmware\CMSIS -I..\..\Template -I..\..\Firmware\CMSIS\GD\GD32F3x0\Source\ARM -I..\..\Firmware\GD32F3x0_standard_peripheral\Include -I..\FATFS_Source -I..\Keil_project-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\GD\GD32F3x0-DUSE_STDPERIPH_DRIVER -DGD32F3X0 -DGD32F350 -o .\output\gd32f3x0_dac.o --omf_browse .\output\gd32f3x0_dac.crf --depend .\output\gd32f3x0_dac.d)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_dac.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\GD\GD32F3x0\Include\gd32f3x0.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\core_cm4.h)(0x59552400)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7B744)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\core_cmInstr.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\core_cmFunc.h)(0x5CE757CD)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\core_cm4_simd.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\GD\GD32F3x0\Include\system_gd32f3x0.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Template\gd32f3x0_libopt.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_adc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_crc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_ctc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_dbg.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_dma.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_exti.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_fmc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_gpio.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_syscfg.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_i2c.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_fwdgt.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_pmu.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_rcu.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_rtc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_spi.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_timer.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_usart.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_wwdgt.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_misc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_tsi.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_cec.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_cmp.h)(0x59552400)
+F (..\..\Firmware\GD32F3x0_standard_peripheral\Source\gd32f3x0_dbg.c)(0x59552400)(-c --cpu Cortex-M4 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I..\..\Firmware\CMSIS\GD\GD32F3x0\Include -I..\..\Utilities -I..\..\Firmware\CMSIS -I..\..\Template -I..\..\Firmware\CMSIS\GD\GD32F3x0\Source\ARM -I..\..\Firmware\GD32F3x0_standard_peripheral\Include -I..\FATFS_Source -I..\Keil_project-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\GD\GD32F3x0-DUSE_STDPERIPH_DRIVER -DGD32F3X0 -DGD32F350 -o .\output\gd32f3x0_dbg.o --omf_browse .\output\gd32f3x0_dbg.crf --depend .\output\gd32f3x0_dbg.d)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_dbg.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\GD\GD32F3x0\Include\gd32f3x0.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\core_cm4.h)(0x59552400)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7B744)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\core_cmInstr.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\core_cmFunc.h)(0x5CE757CD)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\core_cm4_simd.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\GD\GD32F3x0\Include\system_gd32f3x0.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Template\gd32f3x0_libopt.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_adc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_crc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_ctc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_dma.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_exti.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_fmc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_gpio.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_syscfg.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_i2c.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_fwdgt.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_pmu.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_rcu.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_rtc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_spi.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_timer.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_usart.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_wwdgt.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_misc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_tsi.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_cec.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_cmp.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_dac.h)(0x59552400)
+F (..\..\Firmware\GD32F3x0_standard_peripheral\Source\gd32f3x0_dma.c)(0x59552400)(-c --cpu Cortex-M4 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I..\..\Firmware\CMSIS\GD\GD32F3x0\Include -I..\..\Utilities -I..\..\Firmware\CMSIS -I..\..\Template -I..\..\Firmware\CMSIS\GD\GD32F3x0\Source\ARM -I..\..\Firmware\GD32F3x0_standard_peripheral\Include -I..\FATFS_Source -I..\Keil_project-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\GD\GD32F3x0-DUSE_STDPERIPH_DRIVER -DGD32F3X0 -DGD32F350 -o .\output\gd32f3x0_dma.o --omf_browse .\output\gd32f3x0_dma.crf --depend .\output\gd32f3x0_dma.d)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_dma.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\GD\GD32F3x0\Include\gd32f3x0.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\core_cm4.h)(0x59552400)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7B744)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\core_cmInstr.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\core_cmFunc.h)(0x5CE757CD)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\core_cm4_simd.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\GD\GD32F3x0\Include\system_gd32f3x0.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Template\gd32f3x0_libopt.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_adc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_crc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_ctc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_dbg.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_exti.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_fmc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_gpio.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_syscfg.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_i2c.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_fwdgt.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_pmu.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_rcu.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_rtc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_spi.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_timer.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_usart.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_wwdgt.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_misc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_tsi.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_cec.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_cmp.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_dac.h)(0x59552400)
+F (..\..\Firmware\GD32F3x0_standard_peripheral\Source\gd32f3x0_exti.c)(0x59552400)(-c --cpu Cortex-M4 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I..\..\Firmware\CMSIS\GD\GD32F3x0\Include -I..\..\Utilities -I..\..\Firmware\CMSIS -I..\..\Template -I..\..\Firmware\CMSIS\GD\GD32F3x0\Source\ARM -I..\..\Firmware\GD32F3x0_standard_peripheral\Include -I..\FATFS_Source -I..\Keil_project-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\GD\GD32F3x0-DUSE_STDPERIPH_DRIVER -DGD32F3X0 -DGD32F350 -o .\output\gd32f3x0_exti.o --omf_browse .\output\gd32f3x0_exti.crf --depend .\output\gd32f3x0_exti.d)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_exti.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\GD\GD32F3x0\Include\gd32f3x0.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\core_cm4.h)(0x59552400)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7B744)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\core_cmInstr.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\core_cmFunc.h)(0x5CE757CD)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\core_cm4_simd.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\GD\GD32F3x0\Include\system_gd32f3x0.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Template\gd32f3x0_libopt.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_adc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_crc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_ctc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_dbg.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_dma.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_fmc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_gpio.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_syscfg.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_i2c.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_fwdgt.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_pmu.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_rcu.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_rtc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_spi.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_timer.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_usart.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_wwdgt.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_misc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_tsi.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_cec.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_cmp.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_dac.h)(0x59552400)
+F (..\..\Firmware\GD32F3x0_standard_peripheral\Source\gd32f3x0_fmc.c)(0x59552400)(-c --cpu Cortex-M4 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I..\..\Firmware\CMSIS\GD\GD32F3x0\Include -I..\..\Utilities -I..\..\Firmware\CMSIS -I..\..\Template -I..\..\Firmware\CMSIS\GD\GD32F3x0\Source\ARM -I..\..\Firmware\GD32F3x0_standard_peripheral\Include -I..\FATFS_Source -I..\Keil_project-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\GD\GD32F3x0-DUSE_STDPERIPH_DRIVER -DGD32F3X0 -DGD32F350 -o .\output\gd32f3x0_fmc.o --omf_browse .\output\gd32f3x0_fmc.crf --depend .\output\gd32f3x0_fmc.d)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_fmc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\GD\GD32F3x0\Include\gd32f3x0.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\core_cm4.h)(0x59552400)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7B744)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\core_cmInstr.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\core_cmFunc.h)(0x5CE757CD)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\core_cm4_simd.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\GD\GD32F3x0\Include\system_gd32f3x0.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Template\gd32f3x0_libopt.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_adc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_crc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_ctc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_dbg.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_dma.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_exti.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_gpio.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_syscfg.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_i2c.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_fwdgt.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_pmu.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_rcu.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_rtc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_spi.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_timer.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_usart.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_wwdgt.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_misc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_tsi.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_cec.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_cmp.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_dac.h)(0x59552400)
+F (..\..\Firmware\GD32F3x0_standard_peripheral\Source\gd32f3x0_fwdgt.c)(0x59552400)(-c --cpu Cortex-M4 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I..\..\Firmware\CMSIS\GD\GD32F3x0\Include -I..\..\Utilities -I..\..\Firmware\CMSIS -I..\..\Template -I..\..\Firmware\CMSIS\GD\GD32F3x0\Source\ARM -I..\..\Firmware\GD32F3x0_standard_peripheral\Include -I..\FATFS_Source -I..\Keil_project-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\GD\GD32F3x0-DUSE_STDPERIPH_DRIVER -DGD32F3X0 -DGD32F350 -o .\output\gd32f3x0_fwdgt.o --omf_browse .\output\gd32f3x0_fwdgt.crf --depend .\output\gd32f3x0_fwdgt.d)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_fwdgt.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\GD\GD32F3x0\Include\gd32f3x0.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\core_cm4.h)(0x59552400)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7B744)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\core_cmInstr.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\core_cmFunc.h)(0x5CE757CD)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\core_cm4_simd.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\GD\GD32F3x0\Include\system_gd32f3x0.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Template\gd32f3x0_libopt.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_adc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_crc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_ctc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_dbg.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_dma.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_exti.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_fmc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_gpio.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_syscfg.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_i2c.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_pmu.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_rcu.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_rtc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_spi.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_timer.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_usart.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_wwdgt.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_misc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_tsi.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_cec.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_cmp.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_dac.h)(0x59552400)
+F (..\..\Firmware\GD32F3x0_standard_peripheral\Source\gd32f3x0_gpio.c)(0x59552400)(-c --cpu Cortex-M4 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I..\..\Firmware\CMSIS\GD\GD32F3x0\Include -I..\..\Utilities -I..\..\Firmware\CMSIS -I..\..\Template -I..\..\Firmware\CMSIS\GD\GD32F3x0\Source\ARM -I..\..\Firmware\GD32F3x0_standard_peripheral\Include -I..\FATFS_Source -I..\Keil_project-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\GD\GD32F3x0-DUSE_STDPERIPH_DRIVER -DGD32F3X0 -DGD32F350 -o .\output\gd32f3x0_gpio.o --omf_browse .\output\gd32f3x0_gpio.crf --depend .\output\gd32f3x0_gpio.d)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_gpio.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\GD\GD32F3x0\Include\gd32f3x0.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\core_cm4.h)(0x59552400)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7B744)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\core_cmInstr.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\core_cmFunc.h)(0x5CE757CD)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\core_cm4_simd.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\GD\GD32F3x0\Include\system_gd32f3x0.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Template\gd32f3x0_libopt.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_adc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_crc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_ctc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_dbg.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_dma.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_exti.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_fmc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_syscfg.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_i2c.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_fwdgt.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_pmu.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_rcu.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_rtc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_spi.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_timer.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_usart.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_wwdgt.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_misc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_tsi.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_cec.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_cmp.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_dac.h)(0x59552400)
+F (..\..\Firmware\GD32F3x0_standard_peripheral\Source\gd32f3x0_i2c.c)(0x59552400)(-c --cpu Cortex-M4 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I..\..\Firmware\CMSIS\GD\GD32F3x0\Include -I..\..\Utilities -I..\..\Firmware\CMSIS -I..\..\Template -I..\..\Firmware\CMSIS\GD\GD32F3x0\Source\ARM -I..\..\Firmware\GD32F3x0_standard_peripheral\Include -I..\FATFS_Source -I..\Keil_project-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\GD\GD32F3x0-DUSE_STDPERIPH_DRIVER -DGD32F3X0 -DGD32F350 -o .\output\gd32f3x0_i2c.o --omf_browse .\output\gd32f3x0_i2c.crf --depend .\output\gd32f3x0_i2c.d)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_i2c.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\GD\GD32F3x0\Include\gd32f3x0.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\core_cm4.h)(0x59552400)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7B744)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\core_cmInstr.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\core_cmFunc.h)(0x5CE757CD)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\core_cm4_simd.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\GD\GD32F3x0\Include\system_gd32f3x0.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Template\gd32f3x0_libopt.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_adc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_crc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_ctc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_dbg.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_dma.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_exti.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_fmc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_gpio.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_syscfg.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_fwdgt.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_pmu.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_rcu.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_rtc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_spi.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_timer.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_usart.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_wwdgt.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_misc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_tsi.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_cec.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_cmp.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_dac.h)(0x59552400)
+F (..\..\Firmware\GD32F3x0_standard_peripheral\Source\gd32f3x0_misc.c)(0x59552400)(-c --cpu Cortex-M4 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I..\..\Firmware\CMSIS\GD\GD32F3x0\Include -I..\..\Utilities -I..\..\Firmware\CMSIS -I..\..\Template -I..\..\Firmware\CMSIS\GD\GD32F3x0\Source\ARM -I..\..\Firmware\GD32F3x0_standard_peripheral\Include -I..\FATFS_Source -I..\Keil_project-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\GD\GD32F3x0-DUSE_STDPERIPH_DRIVER -DGD32F3X0 -DGD32F350 -o .\output\gd32f3x0_misc.o --omf_browse .\output\gd32f3x0_misc.crf --depend .\output\gd32f3x0_misc.d)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_misc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\GD\GD32F3x0\Include\gd32f3x0.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\core_cm4.h)(0x59552400)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7B744)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\core_cmInstr.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\core_cmFunc.h)(0x5CE757CD)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\core_cm4_simd.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\GD\GD32F3x0\Include\system_gd32f3x0.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Template\gd32f3x0_libopt.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_adc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_crc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_ctc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_dbg.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_dma.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_exti.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_fmc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_gpio.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_syscfg.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_i2c.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_fwdgt.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_pmu.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_rcu.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_rtc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_spi.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_timer.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_usart.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_wwdgt.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_tsi.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_cec.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_cmp.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_dac.h)(0x59552400)
+F (..\..\Firmware\GD32F3x0_standard_peripheral\Source\gd32f3x0_pmu.c)(0x59552400)(-c --cpu Cortex-M4 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I..\..\Firmware\CMSIS\GD\GD32F3x0\Include -I..\..\Utilities -I..\..\Firmware\CMSIS -I..\..\Template -I..\..\Firmware\CMSIS\GD\GD32F3x0\Source\ARM -I..\..\Firmware\GD32F3x0_standard_peripheral\Include -I..\FATFS_Source -I..\Keil_project-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\GD\GD32F3x0-DUSE_STDPERIPH_DRIVER -DGD32F3X0 -DGD32F350 -o .\output\gd32f3x0_pmu.o --omf_browse .\output\gd32f3x0_pmu.crf --depend .\output\gd32f3x0_pmu.d)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_pmu.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\GD\GD32F3x0\Include\gd32f3x0.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\core_cm4.h)(0x59552400)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7B744)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\core_cmInstr.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\core_cmFunc.h)(0x5CE757CD)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\core_cm4_simd.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\GD\GD32F3x0\Include\system_gd32f3x0.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Template\gd32f3x0_libopt.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_adc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_crc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_ctc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_dbg.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_dma.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_exti.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_fmc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_gpio.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_syscfg.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_i2c.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_fwdgt.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_rcu.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_rtc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_spi.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_timer.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_usart.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_wwdgt.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_misc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_tsi.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_cec.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_cmp.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_dac.h)(0x59552400)
+F (..\..\Firmware\GD32F3x0_standard_peripheral\Source\gd32f3x0_rcu.c)(0x59552400)(-c --cpu Cortex-M4 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I..\..\Firmware\CMSIS\GD\GD32F3x0\Include -I..\..\Utilities -I..\..\Firmware\CMSIS -I..\..\Template -I..\..\Firmware\CMSIS\GD\GD32F3x0\Source\ARM -I..\..\Firmware\GD32F3x0_standard_peripheral\Include -I..\FATFS_Source -I..\Keil_project-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\GD\GD32F3x0-DUSE_STDPERIPH_DRIVER -DGD32F3X0 -DGD32F350 -o .\output\gd32f3x0_rcu.o --omf_browse .\output\gd32f3x0_rcu.crf --depend .\output\gd32f3x0_rcu.d)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_rcu.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\GD\GD32F3x0\Include\gd32f3x0.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\core_cm4.h)(0x59552400)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7B744)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\core_cmInstr.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\core_cmFunc.h)(0x5CE757CD)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\core_cm4_simd.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\GD\GD32F3x0\Include\system_gd32f3x0.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Template\gd32f3x0_libopt.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_adc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_crc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_ctc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_dbg.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_dma.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_exti.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_fmc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_gpio.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_syscfg.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_i2c.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_fwdgt.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_pmu.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_rtc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_spi.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_timer.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_usart.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_wwdgt.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_misc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_tsi.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_cec.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_cmp.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_dac.h)(0x59552400)
+F (..\..\Firmware\GD32F3x0_standard_peripheral\Source\gd32f3x0_rtc.c)(0x59552400)(-c --cpu Cortex-M4 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I..\..\Firmware\CMSIS\GD\GD32F3x0\Include -I..\..\Utilities -I..\..\Firmware\CMSIS -I..\..\Template -I..\..\Firmware\CMSIS\GD\GD32F3x0\Source\ARM -I..\..\Firmware\GD32F3x0_standard_peripheral\Include -I..\FATFS_Source -I..\Keil_project-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\GD\GD32F3x0-DUSE_STDPERIPH_DRIVER -DGD32F3X0 -DGD32F350 -o .\output\gd32f3x0_rtc.o --omf_browse .\output\gd32f3x0_rtc.crf --depend .\output\gd32f3x0_rtc.d)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_rtc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\GD\GD32F3x0\Include\gd32f3x0.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\core_cm4.h)(0x59552400)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7B744)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\core_cmInstr.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\core_cmFunc.h)(0x5CE757CD)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\core_cm4_simd.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\GD\GD32F3x0\Include\system_gd32f3x0.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Template\gd32f3x0_libopt.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_adc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_crc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_ctc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_dbg.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_dma.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_exti.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_fmc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_gpio.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_syscfg.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_i2c.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_fwdgt.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_pmu.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_rcu.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_spi.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_timer.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_usart.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_wwdgt.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_misc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_tsi.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_cec.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_cmp.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_dac.h)(0x59552400)
+F (..\..\Firmware\GD32F3x0_standard_peripheral\Source\gd32f3x0_spi.c)(0x59552400)(-c --cpu Cortex-M4 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I..\..\Firmware\CMSIS\GD\GD32F3x0\Include -I..\..\Utilities -I..\..\Firmware\CMSIS -I..\..\Template -I..\..\Firmware\CMSIS\GD\GD32F3x0\Source\ARM -I..\..\Firmware\GD32F3x0_standard_peripheral\Include -I..\FATFS_Source -I..\Keil_project-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\GD\GD32F3x0-DUSE_STDPERIPH_DRIVER -DGD32F3X0 -DGD32F350 -o .\output\gd32f3x0_spi.o --omf_browse .\output\gd32f3x0_spi.crf --depend .\output\gd32f3x0_spi.d)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_spi.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\GD\GD32F3x0\Include\gd32f3x0.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\core_cm4.h)(0x59552400)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7B744)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\core_cmInstr.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\core_cmFunc.h)(0x5CE757CD)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\core_cm4_simd.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\GD\GD32F3x0\Include\system_gd32f3x0.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Template\gd32f3x0_libopt.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_adc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_crc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_ctc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_dbg.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_dma.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_exti.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_fmc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_gpio.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_syscfg.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_i2c.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_fwdgt.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_pmu.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_rcu.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_rtc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_timer.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_usart.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_wwdgt.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_misc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_tsi.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_cec.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_cmp.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_dac.h)(0x59552400)
+F (..\..\Firmware\GD32F3x0_standard_peripheral\Source\gd32f3x0_syscfg.c)(0x59552400)(-c --cpu Cortex-M4 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I..\..\Firmware\CMSIS\GD\GD32F3x0\Include -I..\..\Utilities -I..\..\Firmware\CMSIS -I..\..\Template -I..\..\Firmware\CMSIS\GD\GD32F3x0\Source\ARM -I..\..\Firmware\GD32F3x0_standard_peripheral\Include -I..\FATFS_Source -I..\Keil_project-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\GD\GD32F3x0-DUSE_STDPERIPH_DRIVER -DGD32F3X0 -DGD32F350 -o .\output\gd32f3x0_syscfg.o --omf_browse .\output\gd32f3x0_syscfg.crf --depend .\output\gd32f3x0_syscfg.d)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_syscfg.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\GD\GD32F3x0\Include\gd32f3x0.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\core_cm4.h)(0x59552400)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7B744)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\core_cmInstr.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\core_cmFunc.h)(0x5CE757CD)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\core_cm4_simd.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\GD\GD32F3x0\Include\system_gd32f3x0.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Template\gd32f3x0_libopt.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_adc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_crc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_ctc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_dbg.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_dma.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_exti.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_fmc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_gpio.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_i2c.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_fwdgt.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_pmu.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_rcu.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_rtc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_spi.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_timer.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_usart.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_wwdgt.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_misc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_tsi.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_cec.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_cmp.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_dac.h)(0x59552400)
+F (..\..\Firmware\GD32F3x0_standard_peripheral\Source\gd32f3x0_timer.c)(0x59552400)(-c --cpu Cortex-M4 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I..\..\Firmware\CMSIS\GD\GD32F3x0\Include -I..\..\Utilities -I..\..\Firmware\CMSIS -I..\..\Template -I..\..\Firmware\CMSIS\GD\GD32F3x0\Source\ARM -I..\..\Firmware\GD32F3x0_standard_peripheral\Include -I..\FATFS_Source -I..\Keil_project-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\GD\GD32F3x0-DUSE_STDPERIPH_DRIVER -DGD32F3X0 -DGD32F350 -o .\output\gd32f3x0_timer.o --omf_browse .\output\gd32f3x0_timer.crf --depend .\output\gd32f3x0_timer.d)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_timer.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\GD\GD32F3x0\Include\gd32f3x0.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\core_cm4.h)(0x59552400)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7B744)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\core_cmInstr.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\core_cmFunc.h)(0x5CE757CD)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\core_cm4_simd.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\GD\GD32F3x0\Include\system_gd32f3x0.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Template\gd32f3x0_libopt.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_adc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_crc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_ctc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_dbg.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_dma.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_exti.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_fmc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_gpio.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_syscfg.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_i2c.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_fwdgt.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_pmu.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_rcu.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_rtc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_spi.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_usart.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_wwdgt.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_misc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_tsi.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_cec.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_cmp.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_dac.h)(0x59552400)
+F (..\..\Firmware\GD32F3x0_standard_peripheral\Source\gd32f3x0_tsi.c)(0x59552400)(-c --cpu Cortex-M4 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I..\..\Firmware\CMSIS\GD\GD32F3x0\Include -I..\..\Utilities -I..\..\Firmware\CMSIS -I..\..\Template -I..\..\Firmware\CMSIS\GD\GD32F3x0\Source\ARM -I..\..\Firmware\GD32F3x0_standard_peripheral\Include -I..\FATFS_Source -I..\Keil_project-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\GD\GD32F3x0-DUSE_STDPERIPH_DRIVER -DGD32F3X0 -DGD32F350 -o .\output\gd32f3x0_tsi.o --omf_browse .\output\gd32f3x0_tsi.crf --depend .\output\gd32f3x0_tsi.d)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_tsi.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\GD\GD32F3x0\Include\gd32f3x0.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\core_cm4.h)(0x59552400)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7B744)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\core_cmInstr.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\core_cmFunc.h)(0x5CE757CD)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\core_cm4_simd.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\GD\GD32F3x0\Include\system_gd32f3x0.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Template\gd32f3x0_libopt.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_adc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_crc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_ctc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_dbg.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_dma.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_exti.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_fmc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_gpio.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_syscfg.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_i2c.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_fwdgt.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_pmu.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_rcu.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_rtc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_spi.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_timer.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_usart.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_wwdgt.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_misc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_cec.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_cmp.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_dac.h)(0x59552400)
+F (..\..\Firmware\GD32F3x0_standard_peripheral\Source\gd32f3x0_usart.c)(0x59552400)(-c --cpu Cortex-M4 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I..\..\Firmware\CMSIS\GD\GD32F3x0\Include -I..\..\Utilities -I..\..\Firmware\CMSIS -I..\..\Template -I..\..\Firmware\CMSIS\GD\GD32F3x0\Source\ARM -I..\..\Firmware\GD32F3x0_standard_peripheral\Include -I..\FATFS_Source -I..\Keil_project-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\GD\GD32F3x0-DUSE_STDPERIPH_DRIVER -DGD32F3X0 -DGD32F350 -o .\output\gd32f3x0_usart.o --omf_browse .\output\gd32f3x0_usart.crf --depend .\output\gd32f3x0_usart.d)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_usart.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\GD\GD32F3x0\Include\gd32f3x0.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\core_cm4.h)(0x59552400)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7B744)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\core_cmInstr.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\core_cmFunc.h)(0x5CE757CD)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\core_cm4_simd.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\GD\GD32F3x0\Include\system_gd32f3x0.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Template\gd32f3x0_libopt.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_adc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_crc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_ctc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_dbg.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_dma.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_exti.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_fmc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_gpio.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_syscfg.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_i2c.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_fwdgt.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_pmu.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_rcu.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_rtc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_spi.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_timer.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_wwdgt.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_misc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_tsi.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_cec.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_cmp.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_dac.h)(0x59552400)
+F (..\..\Firmware\GD32F3x0_standard_peripheral\Source\gd32f3x0_wwdgt.c)(0x59552400)(-c --cpu Cortex-M4 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I..\..\Firmware\CMSIS\GD\GD32F3x0\Include -I..\..\Utilities -I..\..\Firmware\CMSIS -I..\..\Template -I..\..\Firmware\CMSIS\GD\GD32F3x0\Source\ARM -I..\..\Firmware\GD32F3x0_standard_peripheral\Include -I..\FATFS_Source -I..\Keil_project-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\GD\GD32F3x0-DUSE_STDPERIPH_DRIVER -DGD32F3X0 -DGD32F350 -o .\output\gd32f3x0_wwdgt.o --omf_browse .\output\gd32f3x0_wwdgt.crf --depend .\output\gd32f3x0_wwdgt.d)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_wwdgt.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\GD\GD32F3x0\Include\gd32f3x0.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\core_cm4.h)(0x59552400)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7B744)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\core_cmInstr.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\core_cmFunc.h)(0x5CE757CD)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\core_cm4_simd.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\GD\GD32F3x0\Include\system_gd32f3x0.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Template\gd32f3x0_libopt.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_adc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_crc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_ctc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_dbg.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_dma.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_exti.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_fmc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_gpio.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_syscfg.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_i2c.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_fwdgt.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_pmu.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_rcu.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_rtc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_spi.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_timer.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_usart.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_misc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_tsi.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_cec.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_cmp.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_dac.h)(0x59552400)
+F (..\..\Firmware\CMSIS\GD\GD32F3x0\Source\ARM\startup_gd32f3x0.s)(0x59552400)(--cpu Cortex-M4 -g --apcs=interwork --pd "__MICROLIB SETA 1"-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\GD\GD32F3x0--list .\list\startup_gd32f3x0.lst --xref -o .\output\startup_gd32f3x0.o --depend .\output\startup_gd32f3x0.d)
+F (..\..\Utilities\gd32f3x0_eval.c)(0x59552400)(-c --cpu Cortex-M4 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I..\..\Firmware\CMSIS\GD\GD32F3x0\Include -I..\..\Utilities -I..\..\Firmware\CMSIS -I..\..\Template -I..\..\Firmware\CMSIS\GD\GD32F3x0\Source\ARM -I..\..\Firmware\GD32F3x0_standard_peripheral\Include -I..\FATFS_Source -I..\Keil_project-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\GD\GD32F3x0-DUSE_STDPERIPH_DRIVER -DGD32F3X0 -DGD32F350 -o .\output\gd32f3x0_eval.o --omf_browse .\output\gd32f3x0_eval.crf --depend .\output\gd32f3x0_eval.d)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Utilities\gd32f3x0_eval.h)(0x5CE75B93)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\GD\GD32F3x0\Include\gd32f3x0.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\core_cm4.h)(0x59552400)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7B744)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\core_cmInstr.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\core_cmFunc.h)(0x5CE757CD)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\core_cm4_simd.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\GD\GD32F3x0\Include\system_gd32f3x0.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Template\gd32f3x0_libopt.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_adc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_crc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_ctc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_dbg.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_dma.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_exti.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_fmc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_gpio.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_syscfg.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_i2c.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_fwdgt.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_pmu.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_rcu.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_rtc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_spi.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_timer.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_usart.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_wwdgt.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_misc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_tsi.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_cec.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_cmp.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_dac.h)(0x59552400)
+F (..\readme.txt)(0x59552400)()
+F (..\ff.c)(0x5CFF5CAA)(-c --cpu Cortex-M4 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I..\..\Firmware\CMSIS\GD\GD32F3x0\Include -I..\..\Utilities -I..\..\Firmware\CMSIS -I..\..\Template -I..\..\Firmware\CMSIS\GD\GD32F3x0\Source\ARM -I..\..\Firmware\GD32F3x0_standard_peripheral\Include -I..\FATFS_Source -I..\Keil_project-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\GD\GD32F3x0-DUSE_STDPERIPH_DRIVER -DGD32F3X0 -DGD32F350 -o .\output\ff.o --omf_browse .\output\ff.crf --depend .\output\ff.d)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Template_Bootloader\ff.h)(0x5BC350C8)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Template_Bootloader\ffconf.h)(0x5CFE3431)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Template_Bootloader\diskio.h)(0x5CFF5DDD)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\GD\GD32F3x0\Include\gd32f3x0.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\core_cm4.h)(0x59552400)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7B744)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\core_cmInstr.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\core_cmFunc.h)(0x5CE757CD)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\core_cm4_simd.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\GD\GD32F3x0\Include\system_gd32f3x0.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Template\gd32f3x0_libopt.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_adc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_crc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_ctc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_dbg.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_dma.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_exti.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_fmc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_gpio.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_syscfg.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_i2c.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_fwdgt.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_pmu.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_rcu.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_rtc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_spi.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_timer.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_usart.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_wwdgt.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_misc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_tsi.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_cec.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_cmp.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_dac.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Template_Bootloader\systick.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Template_Bootloader\spi_sd.h)(0x5CFF5C4F)
+I (C:\Keil\ARM\ARMCC\include\stdio.h)(0x51C7B744)
+I (C:\Keil\ARM\ARMCC\include\stdarg.h)(0x51C7B744)
+F (..\diskio.c)(0x5CFF5E17)(-c --cpu Cortex-M4 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I..\..\Firmware\CMSIS\GD\GD32F3x0\Include -I..\..\Utilities -I..\..\Firmware\CMSIS -I..\..\Template -I..\..\Firmware\CMSIS\GD\GD32F3x0\Source\ARM -I..\..\Firmware\GD32F3x0_standard_peripheral\Include -I..\FATFS_Source -I..\Keil_project-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\GD\GD32F3x0-DUSE_STDPERIPH_DRIVER -DGD32F3X0 -DGD32F350 -o .\output\diskio.o --omf_browse .\output\diskio.crf --depend .\output\diskio.d)
+I (C:\Keil\ARM\ARMCC\include\stdio.h)(0x51C7B744)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Template_Bootloader\ff.h)(0x5BC350C8)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Template_Bootloader\ffconf.h)(0x5CFE3431)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Template_Bootloader\diskio.h)(0x5CFF5DDD)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\GD\GD32F3x0\Include\gd32f3x0.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\core_cm4.h)(0x59552400)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7B744)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\core_cmInstr.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\core_cmFunc.h)(0x5CE757CD)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\core_cm4_simd.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\CMSIS\GD\GD32F3x0\Include\system_gd32f3x0.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Template\gd32f3x0_libopt.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_adc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_crc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_ctc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_dbg.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_dma.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_exti.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_fmc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_gpio.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_syscfg.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_i2c.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_fwdgt.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_pmu.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_rcu.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_rtc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_spi.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_timer.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_usart.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_wwdgt.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_misc.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_tsi.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_cec.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_cmp.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Firmware\GD32F3x0_standard_peripheral\Include\gd32f3x0_dac.h)(0x59552400)
+I (D:\21_Git_Code\2_GD32F3x0_Firmware_Library_V1.0.0\Template_Bootloader\spi_sd.h)(0x5CFF5C4F)

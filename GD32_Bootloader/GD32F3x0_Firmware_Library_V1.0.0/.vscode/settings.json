@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "dfu_core.h": "c",
+        "usbd_std.h": "c",
+        "systick.h": "c"
+    }
+}
